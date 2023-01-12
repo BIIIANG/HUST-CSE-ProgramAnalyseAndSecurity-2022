@@ -1,0 +1,4 @@
+ClassName	NumberOfGotoExecution
+FastMath	221
+FastMathCalc	0
+Precision	276
